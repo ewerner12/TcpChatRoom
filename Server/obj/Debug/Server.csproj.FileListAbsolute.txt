@@ -1,0 +1,6 @@
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\Server\bin\Debug\Server.exe.config
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\Server\bin\Debug\Server.exe
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\Server\bin\Debug\Server.pdb
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\Server\obj\Debug\Server.exe
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\Server\obj\Debug\Server.pdb
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

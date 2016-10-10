@@ -1,0 +1,6 @@
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\TcpChatRoom\bin\Release\TcpChatRoom.exe.config
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\TcpChatRoom\bin\Release\TcpChatRoom.exe
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\TcpChatRoom\bin\Release\TcpChatRoom.pdb
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\TcpChatRoom\obj\Release\TcpChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\TcpChatRoom\obj\Release\TcpChatRoom.exe
+C:\Users\Eric Werner\Documents\Visual Studio 2015\Projects\TcpChatRoom\TcpChatRoom\obj\Release\TcpChatRoom.pdb
